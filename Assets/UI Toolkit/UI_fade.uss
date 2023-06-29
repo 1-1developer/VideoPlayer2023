@@ -1,0 +1,13 @@
+.VideoScreen {
+    background-image: resource('Video/RanderTexture');
+    width: 1920px;
+    height: 1080px;
+    -unity-background-scale-mode: stretch-to-fill;
+    position: absolute;
+    transition-duration: 0.3s;
+}
+
+.VidenScreen--hide {
+    opacity: 0;
+    transition-duration: 0.3s;
+}

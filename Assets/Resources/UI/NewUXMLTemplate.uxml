@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/UI_fade.uss?fileID=7433441132597879392&amp;guid=d9fde091cdf1a56448e0921384c4bbcd&amp;type=3#UI_fade" />
+    <ui:VisualElement name="Clip2" class="VideoScreen" style="position: absolute; background-image: resource(&apos;UI/9&apos;);" />
+    <ui:VisualElement name="Clip1" class="VideoScreen" style="background-image: url(&apos;project://database/Packages/com.unity.collab-proxy/Editor/PlasticSCM/Assets/Images/d_expertbuhoshe.png?fileID=21300000&amp;guid=8325d4ef0a6eb3d43952aff8a06d9f45&amp;type=3#d_expertbuhoshe&apos;);" />
+    <ui:VisualElement name="Loop" class="VideoScreen" />
+</ui:UXML>
